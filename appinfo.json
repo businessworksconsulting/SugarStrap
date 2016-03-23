@@ -1,0 +1,68 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Gadget Man Jay Ltd",
+    "enableMultiJS": true,
+    "longName": "SugarStrap",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/TESTING_5",
+                "name": "TESTING_5",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/TESTING_4",
+                "name": "TESTING_4",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/TESTING_3",
+                "name": "TESTING_3",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/TESTING_2",
+                "name": "TESTING_2",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/TESTING_1",
+                "name": "RESOURCE_ID_TESTING_1",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/TESTING_1",
+                "name": "TESTING_1",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/STARTUP",
+                "name": "STARTUP",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "SugarStrap",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "3a7ff3cc-79eb-4955-b6ba-80389504eded",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
